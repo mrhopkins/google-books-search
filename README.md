@@ -11,10 +11,11 @@ In this activity, I created a new React-based Google Books Search app. This requ
 ## Built with:
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language
+- [MongoDB](https://www.mongodb.com/) - Cross-platform NoSQL document-oriented database program
+- [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [React](https://reactjs.org/) -  JavaScript library for building user interfaces
 - [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser
 - [JSON](https://www.json.org) - Data format
-- [React](https://reactjs.org/) -  JavaScript library for building user interfaces
-- [MongoDB](https://www.mongodb.com/) - Cross-platform NoSQL document-oriented database program
 - [Visual Studio Code](https://code.visualstudio.com/) - source code editor developed by Microsoft
 
 ---
