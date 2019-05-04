@@ -2,12 +2,12 @@ import React from "react";
 
 function Nav() {
     return (
-        <nav className="navbar navbar-expand-sm navbar-dark bg-primary static-top">
+        <nav className="navbar navbar-expand-sm navbar-dark bg-primary sticky-top">
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
                 aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
-            <nav className="navbar navbar-expand-sm navbar-dark bg-primary fixed-top">
+            <nav className="navbar navbar-expand-sm navbar-dark bg-primary sticky-top">
                 <a className="navbar-brand" href="/">Google Books</a>
                 <ul className="navbar-nav">
                     <li className="nav-item">
